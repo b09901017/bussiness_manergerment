@@ -1,3 +1,4 @@
 a=input()
-
+a=[]
+a.e
 print(a)
